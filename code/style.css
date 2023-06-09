@@ -1,0 +1,11 @@
+ body {
+  color: cyan;
+  background-color: rgb(32, 32, 32);
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+ }
